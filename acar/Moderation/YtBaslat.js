@@ -4,7 +4,7 @@ const acarDatabase = require("../Reference/acarDatabase");
 module.exports = {
     Isim: "yetkibaşlat",
     Komut: ["ybaşlat","yetkibaslat"],
-    Kullanim: "yetkibaşlat <@acar/ID>",
+    Kullanim: "yetkibaşlat <@836979814258049074>",
     Aciklama: "Belirlenen üyeyi yetkiye başlatır.",
     Kategori: "Yönetim",
     
